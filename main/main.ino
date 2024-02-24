@@ -5,8 +5,8 @@ char n[50];
 char l[50];
 char hicc[50];
 // WiFi
-const char *ssid = "ggez"; // Enter your WiFi name
-const char *password = "1212312121";  // Enter WiFi password
+const char *ssid = "****"; // Enter your WiFi name
+const char *password = "*********";  // Enter WiFi password
 
 // MQTT Broker
 const char *mqtt_broker = "iiot.dynu.com";
